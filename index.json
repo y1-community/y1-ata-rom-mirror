@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-03T17:26:55Z",
+  "generated_at": "2026-11-03T21:18:30Z",
   "source_repo": "y1-community/y1-ata-rom",
   "mirror_repo": "y1-community/y1-ata-rom-mirror",
   "title_prefix": "Portable Flashing Package: ",
@@ -57,7 +57,7 @@
           "source_asset": "rom.zip",
           "platform": "windows",
           "size": 692888661,
-          "sha256": "c0be558f6599dda605ca4f61156cfd170c6416bc333c7bdb346fdc78b298a835",
+          "sha256": "14dcd7c70e5b981092331fa8d330aaea78249bb0b3ae8f1fd687da83dd84dbba",
           "url": "https://github.com/y1-community/y1-ata-rom-mirror/releases/download/0.1/rom-windows.zip"
         },
         {
@@ -65,7 +65,7 @@
           "source_asset": "rom.zip",
           "platform": "linux",
           "size": 844199380,
-          "sha256": "b0a0f45de1b15f21c704b477d668740f2810aa51430a88dcfab2803abc5082e6",
+          "sha256": "619343960a318b8add622d1b95d61edf1f1e68d87923d23bd7376df324de6d3f",
           "url": "https://github.com/y1-community/y1-ata-rom-mirror/releases/download/0.1/rom-linux.zip"
         },
         {
@@ -73,7 +73,7 @@
           "source_asset": "rom.zip",
           "platform": "macos",
           "size": 643312138,
-          "sha256": "cc5ea98f0ee84c615171d7187d0962933cdcf8632084671330072ae7a9fd9566",
+          "sha256": "bba5ee631832bfb0ede6571b47ab27561a0614ab242dff1ddca50ea588eabb0a",
           "url": "https://github.com/y1-community/y1-ata-rom-mirror/releases/download/0.1/rom-macos.zip"
         },
         {
@@ -81,7 +81,7 @@
           "source_asset": "rom_type_b.zip",
           "platform": "windows",
           "size": 635758444,
-          "sha256": "6a401ea1be9e897514c3d8aa9c97d4b90a167340462cad95fb4486f1ed08de0a",
+          "sha256": "d16841b2c5282f5a1b9d12966755172b9188a55d2388d6e0cca2457710e337b8",
           "url": "https://github.com/y1-community/y1-ata-rom-mirror/releases/download/0.1/rom_type_b-windows.zip"
         },
         {
@@ -89,7 +89,7 @@
           "source_asset": "rom_type_b.zip",
           "platform": "linux",
           "size": 787069163,
-          "sha256": "7183c2922dc8d4768b6546a6226e8eb8baa799da7888aa56bd13a3e329ab0599",
+          "sha256": "6654854e7a1565c00177e9ee28479532dbf9e8de52be3c57e908b01c0beceb6e",
           "url": "https://github.com/y1-community/y1-ata-rom-mirror/releases/download/0.1/rom_type_b-linux.zip"
         },
         {
@@ -97,7 +97,7 @@
           "source_asset": "rom_type_b.zip",
           "platform": "macos",
           "size": 586181927,
-          "sha256": "26576fd1d27571f22238a68617a58fdb02598e49b41cb8dc2379023eed3ae959",
+          "sha256": "b25a710be64b670c5c91e47e17438e24164055ffa70bfdef3dfed00f651a58cf",
           "url": "https://github.com/y1-community/y1-ata-rom-mirror/releases/download/0.1/rom_type_b-macos.zip"
         }
       ],
