@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-05T11:32:38Z",
+  "generated_at": "2026-11-06T11:30:57Z",
   "source_repo": "y1-community/y1-ata-rom",
   "mirror_repo": "y1-community/y1-ata-rom-mirror",
   "title_prefix": "Portable Flashing Package: ",
@@ -59,7 +59,7 @@
           "model": "Y1",
           "type": "Type A",
           "size": 842274407,
-          "sha256": "ffcddcf036c77ec5d943b2b2c05fc55bc130a3daefa9910142b8fe8e9ae44e23",
+          "sha256": "6d48ec9ecd7c7d6432d01d13d7d9f852025d8892c4664b2eabd80504798c2114",
           "url": "https://github.com/y1-community/y1-ata-rom-mirror/releases/download/0.1/rom-linux.zip"
         },
         {
@@ -68,8 +68,8 @@
           "platform": "macos",
           "model": "Y1",
           "type": "Type A",
-          "size": 610663846,
-          "sha256": "4fd710294ab05e0397a9978afd66e42e64a2be3c2cd0659b579de20a5dd45a58",
+          "size": 700959448,
+          "sha256": "f593f7e87adc8f55e9e586ccd2a9cd0d5fd896f698c4fe8461eddf35cb7aa3ee",
           "url": "https://github.com/y1-community/y1-ata-rom-mirror/releases/download/0.1/rom-macos.zip"
         },
         {
@@ -78,8 +78,8 @@
           "platform": "windows",
           "model": "Y1",
           "type": "Type A",
-          "size": 693501374,
-          "sha256": "5435365feb41add530a4599a21f80a8bd3e3b5d8e89704dc5613429750ef2562",
+          "size": 726431335,
+          "sha256": "0881a31cefed7facceada0163f3e3111ba48b89dee48d7246f42ab88e39ec953",
           "url": "https://github.com/y1-community/y1-ata-rom-mirror/releases/download/0.1/rom-windows.zip"
         },
         {
@@ -89,7 +89,7 @@
           "model": "Y1",
           "type": "Type B",
           "size": 785144190,
-          "sha256": "8798437e50da8c1b10e4623b14adb0a8bb1250cbad8c8b8f6c8ef623b6f2e26e",
+          "sha256": "2d292984d6d4c5a75083d06ea5c5544e7b00941631ae727644105cfd2eb5bf06",
           "url": "https://github.com/y1-community/y1-ata-rom-mirror/releases/download/0.1/rom_type_b-linux.zip"
         },
         {
@@ -98,8 +98,8 @@
           "platform": "macos",
           "model": "Y1",
           "type": "Type B",
-          "size": 553533635,
-          "sha256": "554dd45c6137560317bd795db6083f8a76cf156b812952026c8cea4968ab0100",
+          "size": 643829237,
+          "sha256": "69799a659163fae0db0ea5d372e104a7fa188057e0501e16deae042e6baf05fa",
           "url": "https://github.com/y1-community/y1-ata-rom-mirror/releases/download/0.1/rom_type_b-macos.zip"
         },
         {
@@ -108,8 +108,8 @@
           "platform": "windows",
           "model": "Y1",
           "type": "Type B",
-          "size": 636371157,
-          "sha256": "a6a9fb1f0a17817954ef33ab97490f9a012e77a10a6c5116fc1ca1a6860a0e1c",
+          "size": 669301118,
+          "sha256": "2643d970e63d15ff5c3cd383e74d94425a4a4207c5a846267211c88576521989",
           "url": "https://github.com/y1-community/y1-ata-rom-mirror/releases/download/0.1/rom_type_b-windows.zip"
         }
       ],
