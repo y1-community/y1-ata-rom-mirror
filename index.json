@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "generated_at": "2026-11-22T19:00:58Z",
+  "generated_at": "2026-11-22T22:09:03Z",
   "source_repo": "y1-community/y1-ata-rom",
   "source_fallback_repo": "ryan-specter/y1-ata-rom",
   "mirror_repo": "y1-community/y1-ata-rom-mirror",
@@ -83,8 +83,8 @@
           "platform": "windows",
           "model": "Y1",
           "type": "Type A",
-          "size": 767237724,
-          "sha256": "6b14f547085953e73a9ef758c6cedd66cf803ed7c1b26d090721ec4e781652d6",
+          "size": 643905911,
+          "sha256": "3b21f4eeeb300a6ca41f0bc563be2091685e271ceca1b6f48cf00ce79cb41581",
           "url": "https://github.com/y1-community/y1-ata-rom-mirror/releases/download/0.1/rom-windows.zip",
           "fallback_url": "https://github.com/ryan-specter/y1-ata-rom-mirror/releases/download/0.1/rom-windows.zip"
         },
@@ -95,7 +95,7 @@
           "model": "Y1",
           "type": "Type A",
           "size": 528998933,
-          "sha256": "68d9f1af21ae3bba4c04f331bcd1f6f500237584d0f6ee991b001f346fc39f2c",
+          "sha256": "67ac2518fd466c68746764a1776c9b73742fc0ad60486a18d22787c52d9e758c",
           "url": "https://github.com/y1-community/y1-ata-rom-mirror/releases/download/0.1/rom-windows-legacy.zip",
           "fallback_url": "https://github.com/ryan-specter/y1-ata-rom-mirror/releases/download/0.1/rom-windows-legacy.zip"
         },
@@ -105,8 +105,8 @@
           "platform": "linux",
           "model": "Y1",
           "type": "Type A",
-          "size": 765253267,
-          "sha256": "c3d74c66a7f674c22fb8a860d61de3b6ed6494cddec4126c3d3e039130369053",
+          "size": 765467790,
+          "sha256": "ab59db5144e2afb46e534df6c9319efed39cecffd6fe52d52121c26ad7b55013",
           "url": "https://github.com/y1-community/y1-ata-rom-mirror/releases/download/0.1/rom-linux.zip",
           "fallback_url": "https://github.com/ryan-specter/y1-ata-rom-mirror/releases/download/0.1/rom-linux.zip"
         },
@@ -116,8 +116,8 @@
           "platform": "linux-arm64",
           "model": "Y1",
           "type": "Type A",
-          "size": 590158086,
-          "sha256": "33ff8d4d130a3abfe6a56a568be0f6530e73d3908aa2ab0f3edb95c1db679fe7",
+          "size": 590374552,
+          "sha256": "bf05e9c8a04ebcb933d35d08bd7479acd57a8d4852254614f6f8deb3ef71318e",
           "url": "https://github.com/y1-community/y1-ata-rom-mirror/releases/download/0.1/rom-linux-arm64.zip",
           "fallback_url": "https://github.com/ryan-specter/y1-ata-rom-mirror/releases/download/0.1/rom-linux-arm64.zip"
         },
@@ -128,7 +128,7 @@
           "model": "Y1",
           "type": "Type A",
           "size": 527413214,
-          "sha256": "ccb065cf30d099e97c61f1fb1d40f9c0c80afb48ca4c12e85caad09e2e99eeeb",
+          "sha256": "54affeacadada3ae7288b248d1f597ab713475e0e4a77eeccc71c1edb4aa614c",
           "url": "https://github.com/y1-community/y1-ata-rom-mirror/releases/download/0.1/rom-linux-legacy.zip",
           "fallback_url": "https://github.com/ryan-specter/y1-ata-rom-mirror/releases/download/0.1/rom-linux-legacy.zip"
         },
@@ -138,8 +138,8 @@
           "platform": "macos",
           "model": "Y1",
           "type": "Type A",
-          "size": 565057481,
-          "sha256": "698b7f3202b18af324208f98934331ef9e38d4f2b0fd8d1d5520fcfcfbdf1915",
+          "size": 565219455,
+          "sha256": "330af8d01417642eb252435c7036fc10562f080100a07fc2c471a3f29a6eca9c",
           "url": "https://github.com/y1-community/y1-ata-rom-mirror/releases/download/0.1/rom-macos.zip",
           "fallback_url": "https://github.com/ryan-specter/y1-ata-rom-mirror/releases/download/0.1/rom-macos.zip"
         },
@@ -149,8 +149,8 @@
           "platform": "windows",
           "model": "Y1",
           "type": "Type B",
-          "size": 710234720,
-          "sha256": "6b7126e5ddf4f6281d52d2a8a267528fbb1418b89071a0e10914208c11032ff7",
+          "size": 586902907,
+          "sha256": "f622b537dec83684c543fcc55e6465eca6d6de0324019439ac5d76c54504d5ef",
           "url": "https://github.com/y1-community/y1-ata-rom-mirror/releases/download/0.1/rom_type_b-windows.zip",
           "fallback_url": "https://github.com/ryan-specter/y1-ata-rom-mirror/releases/download/0.1/rom_type_b-windows.zip"
         },
@@ -161,7 +161,7 @@
           "model": "Y1",
           "type": "Type B",
           "size": 471995943,
-          "sha256": "bf0dc0c12481cfeb16dc05c239c80cc1317eb692b2ab877aa129d053caa82c67",
+          "sha256": "2aab172e392297ae97c1242a25612a9875f4ac9af609f0c02475307116c9611d",
           "url": "https://github.com/y1-community/y1-ata-rom-mirror/releases/download/0.1/rom_type_b-windows-legacy.zip",
           "fallback_url": "https://github.com/ryan-specter/y1-ata-rom-mirror/releases/download/0.1/rom_type_b-windows-legacy.zip"
         },
@@ -171,8 +171,8 @@
           "platform": "linux",
           "model": "Y1",
           "type": "Type B",
-          "size": 708250263,
-          "sha256": "87df9c9d1c7d9e9223abf38de8acf10c74a52a1c4e1b3d80a14d4858aa895e73",
+          "size": 708464786,
+          "sha256": "2ef6d10aeea8b6fc0c4e2cf2ac3a4ced73d4d783562cc266306dc10d6ecaf755",
           "url": "https://github.com/y1-community/y1-ata-rom-mirror/releases/download/0.1/rom_type_b-linux.zip",
           "fallback_url": "https://github.com/ryan-specter/y1-ata-rom-mirror/releases/download/0.1/rom_type_b-linux.zip"
         },
@@ -182,8 +182,8 @@
           "platform": "linux-arm64",
           "model": "Y1",
           "type": "Type B",
-          "size": 533155082,
-          "sha256": "61f5765bfb8519e918989cd477faf7dba966334ff4aba4da77d4ce179c1e9ab8",
+          "size": 533371548,
+          "sha256": "5c019a6bb9343b345545fb899553b92db50340598749feef7b0855efa3c1ab4a",
           "url": "https://github.com/y1-community/y1-ata-rom-mirror/releases/download/0.1/rom_type_b-linux-arm64.zip",
           "fallback_url": "https://github.com/ryan-specter/y1-ata-rom-mirror/releases/download/0.1/rom_type_b-linux-arm64.zip"
         },
@@ -194,7 +194,7 @@
           "model": "Y1",
           "type": "Type B",
           "size": 470410226,
-          "sha256": "f4792163854e9a31b536d5de9786d2c0c2f66f1e2bd35a9560386f2c0359dae9",
+          "sha256": "56ef381478b066b15c77429700f747ba4de5aaf96ab3fae9da9ef5324d7e6f10",
           "url": "https://github.com/y1-community/y1-ata-rom-mirror/releases/download/0.1/rom_type_b-linux-legacy.zip",
           "fallback_url": "https://github.com/ryan-specter/y1-ata-rom-mirror/releases/download/0.1/rom_type_b-linux-legacy.zip"
         },
@@ -204,8 +204,8 @@
           "platform": "macos",
           "model": "Y1",
           "type": "Type B",
-          "size": 508054483,
-          "sha256": "25044f153d7d95b91936c851ba39d79c0952bed745f8dd721364a68f287d96f5",
+          "size": 508216457,
+          "sha256": "eca11d9a47b65afaa337618ace4716e99ad0d8f7004a94b1b79532c0065d2b5c",
           "url": "https://github.com/y1-community/y1-ata-rom-mirror/releases/download/0.1/rom_type_b-macos.zip",
           "fallback_url": "https://github.com/ryan-specter/y1-ata-rom-mirror/releases/download/0.1/rom_type_b-macos.zip"
         }
